@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "NKmvV8Q3XL",
+    "password": "KGB5ta2Ay0",
+    "database": "NKmvV8Q3XL",
+    "host": "remotemysql.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "NKmvV8Q3XL",
+    "password": "KGB5ta2Ay0",
+    "database": "NKmvV8Q3XL",
+    "host": "remotemysql.com",
+    "dialect": "mysql"
+  }
+}
